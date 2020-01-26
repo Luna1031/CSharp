@@ -1,2 +1,2 @@
-# csharp
-C# CLI Programming
+# C#
+## C# CLI Programming
