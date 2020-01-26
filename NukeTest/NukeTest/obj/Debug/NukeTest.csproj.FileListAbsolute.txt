@@ -1,1 +1,7 @@
 C:\Users\sm\Desktop\visual\NukeTest\NukeTest\bin\Debug\NukeTest.exe.config
+C:\GitHub\csharp\NukeTest\NukeTest\bin\Debug\NukeTest.exe.config
+C:\GitHub\csharp\NukeTest\NukeTest\bin\Debug\NukeTest.exe
+C:\GitHub\csharp\NukeTest\NukeTest\bin\Debug\NukeTest.pdb
+C:\GitHub\csharp\NukeTest\NukeTest\obj\Debug\NukeTest.csprojResolveAssemblyReference.cache
+C:\GitHub\csharp\NukeTest\NukeTest\obj\Debug\NukeTest.exe
+C:\GitHub\csharp\NukeTest\NukeTest\obj\Debug\NukeTest.pdb
